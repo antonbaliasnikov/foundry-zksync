@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/antonbaliasnikov/foundry-zksync/compare/foundry-zksync-v0.0.3...foundry-zksync-v0.0.4) (2025-01-17)
+
+
+### Features
+
+* new feat to trigger the release ([2fa6b83](https://github.com/antonbaliasnikov/foundry-zksync/commit/2fa6b835d1d232944e9501d6eb6aba34b243d14b))
+
 ## [0.0.3](https://github.com/antonbaliasnikov/foundry-zksync/compare/foundry-zksync-v0.0.2...foundry-zksync-v0.0.3) (2025-01-09)
 
 
